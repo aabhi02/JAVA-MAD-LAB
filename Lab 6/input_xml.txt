@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<records>
+    <weather>
+        <City>Bengaluru</City>
+        <Latitude>78</Latitude>
+        <Longitude>87</Longitude>
+        <Temperature>50</Temperature>
+        <Humidity>90%</Humidity>
+    </weather>
+</records>

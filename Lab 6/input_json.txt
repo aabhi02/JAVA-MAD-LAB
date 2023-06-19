@@ -1,0 +1,9 @@
+{
+  "weather": {
+    "City": "Bengaluru",
+    "Latitude": "78",
+    "Longitude": "87",
+    "Temperature": "50",
+    "Humidity": "90%"
+  }
+}
